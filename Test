@@ -1,0 +1,5 @@
+git config --global user.name "John Moore"
+git config --global user.email "j.moore31240@gmail.com"
+git config --global init.defaultBranch main
+git config --global color ui. auto
+git config --get user.name
